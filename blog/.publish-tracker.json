@@ -1,7 +1,8 @@
 {
-  "next_index": 1,
-  "published": [0],
+  "next_index": 2,
+  "published": [0, 1],
   "log": [
-    {"index": 0, "slug": "florida-donation-bin-anchoring-law", "service": "bins", "region": "Statewide", "date": "2026-08-17"}
+    {"index": 0, "slug": "florida-donation-bin-anchoring-law", "service": "bins", "region": "Statewide", "date": "2026-08-17"},
+    {"index": 1, "slug": "donation-bin-anchoring-tampa-fl", "service": "bins", "region": "Tampa", "date": "2026-08-17"}
   ]
 }
